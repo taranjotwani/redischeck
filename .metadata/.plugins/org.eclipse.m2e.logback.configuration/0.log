@@ -1,0 +1,9 @@
+2017-06-24 12:40:30,530 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/Taran/Repository/redischeck/redis/pom.xml
+2017-06-24 12:40:33,264 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taran:redis:1.0.0-SNAPSHOT @ /Users/Taran/Repository/redischeck/redis/pom.xml.
+2017-06-24 12:40:34,476 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /redis/src/main/java
+2017-06-24 12:40:34,479 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /redis/src/test/java
+2017-06-24 12:40:35,336 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-06-24 12:40:36,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-24 12:40:36,148 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Taran/Repository/redischeck/redis/src/main/resources
+2017-06-24 12:40:36,150 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-24 12:40:36,151 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Taran/Repository/redischeck/redis/src/test/resources
