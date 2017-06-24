@@ -1,0 +1,7 @@
+# This is a redis container
+redis:
+  image: redis:alpine
+  command: redis-server --requirepass redis
+  container_name: redis
+  ports: 
+   - "6379:6379"
